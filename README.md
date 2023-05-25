@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**hesoo98/hesoo98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**woohyung0511/woohyung0511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
