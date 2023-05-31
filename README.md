@@ -28,3 +28,15 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" /> &nbsp<br>
    
 </p><br>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woohyung0511&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=woohyung0511&show_icons=true">
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=erst123">
+</div>
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&animation=fadeIn)
+
+</div>
