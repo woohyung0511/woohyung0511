@@ -4,7 +4,7 @@
   ### want to be a backend developer
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=000000&size=30&center=true&lines=Hello+World+!&nbsp;+I'm+woo+hyung+&nbsp;)
 </div>
-
+<hr>
 <div align="center">
 <h3>📧<b>Contact</b></h3>
 <p>
