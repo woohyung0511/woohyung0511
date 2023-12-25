@@ -1,7 +1,6 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=&fontAlign=80&fontAlignY=40&color=gradient&animation=fadeIn)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&color=000000&size=30&center=true&lines=Hello+World+!&nbsp;+I'm+woo+hyung+&nbsp;)
 </div>
 <hr>
 <div align="center">
